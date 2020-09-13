@@ -1,0 +1,45 @@
+		html{
+			scroll-behavior: smooth;
+		}
+		.a{
+			background-image: url("a.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			border-style: solid;
+
+		}
+		.b{
+			
+			position: absolute;
+			width: 100%;
+			text-align: center;
+			color: rgb(255,255,255);
+			text-decoration: all;
+			text-shadow: 2px 2px rgb(1,1,1);
+		}
+		.c{
+			background-color: rgb(19,3,28); color: rgb(212, 191, 224);
+			position: absolute;
+			width: 100%;
+			top: 700px;
+			margin: 0px;
+
+		}
+		.d{
+			background-color: rgb(190, 186, 194);
+			color: rgb(19,3,28);
+			box-shadow: 10px 10px;
+			text-align: center;
+
+		}
+		.e{
+			width: 90%;
+			margin-right: 100px; 
+			margin:0px;
+		}
+		.f{
+			background-color: rgb(19,3,28);
+			padding:  50px;
+			margin: 0px;
+		}

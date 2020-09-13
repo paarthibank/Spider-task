@@ -1,0 +1,111 @@
+.az{
+		height: 480px;
+		margin-top: 2px;
+		margin-bottom: 7px;
+
+	}
+	.card{
+		overflow: hidden;
+	}
+	.l{
+		height: 20rem;
+	}
+	
+	.l:hover{
+		height:28.33rem;
+	}
+	.card-body{
+		height: 5rem;
+	}
+
+	.l1{
+		width: 80%;
+	}
+	html{
+		scroll-behavior: smooth;
+		margin-left: 10px;
+	}
+	.f{
+		width: 17rem; height: 25rem;
+		margin: 5px;
+	}
+	.f:hover{
+		width: 20rem; height: 33.3rem;
+
+	}
+
+	.d-block{
+		object-fit: fill;
+		height: 480px;
+		border-radius: 10px;
+	}
+	.ll{
+		height: 20rem;
+	}
+	.ll:hover{
+		height: 28.3rem;
+	}
+	.a{
+		border-bottom-style: outset;
+		border-top-style: inset;
+		border-radius: 5px;
+	}
+	.col{
+		padding-right: 1px;
+		padding-left: 1px;
+	}
+	
+	.b{
+		padding-left: 0px;
+		padding-right: 7px;
+	}
+	.d{
+		width: 49.2%;
+		height:40%;
+		display: inline-block;
+		padding: 0px;
+
+	}
+	.e{
+		height: 100%;
+		width: 100%;
+	}
+
+	.btn-outline-secondary{
+		margin-right: 0px;
+	}
+	.btn{
+		width:100%;
+	}
+	.bt{
+		width: 125px;
+	
+	}
+	.car{
+		border-style: outset;
+		padding: 0px;
+		text-align: center;
+	}
+	.g{
+		height: 150px;
+		text-align: center;
+		padding: 10px;
+		margin: 0px;
+	}
+	.h{
+		float: left;
+		height: 100px;
+		width: 100px;
+
+	}
+	.m{
+		display: inline-block;
+	}
+	.k{
+		width: 50%;
+		margin-left:  50px;
+	}
+	.op{
+		width: 120px;
+
+	}
